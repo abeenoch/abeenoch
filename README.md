@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abeenoch
 - 👀 I’m interested in data science/machine learning and artificial intelligence 
-- 🌱 I’m currently learning MLops
-- 💞️ I’m looking to collaborate on data science,machine learning projects.
+- 🌱 I’m currently learning data engineering
+- 💞️ I’m looking to collaborate on AI/ML projects.
 - 📫 How to reach me funboy.ea@gmail.com or abeenoch@yahoo.com
 - I also often write, see my medium blogposts here: https://medium.com/@funboy.ea
 <!---
