@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abeenoch
-- 👀 I’m interested in data science/machine learning and artificial intelligence 
+- 👀 I’m interested in machine learning, artificial intelligence
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on AI/ML projects.
 - 📫 How to reach me funboy.ea@gmail.com or abeenoch@yahoo.com
